@@ -28,7 +28,7 @@ The version of phpStorm is 2017.3
       * Host --> localhost
       * Port --> 80
       * Debugger --> we will use xDebug
-      * Then we need to check to Use path mapping and we need to se the rout directory to /var/www/html
+      * Then we need to check the 'Use path mapping' and we need to se the rout directory to /var/www/html
       In my example the root is /Users/peyo/Documents/SoftUni/Software Technologie/PHP
       <img src="https://image.ibb.co/iDZ15S/server_Config.png" /> 
       
