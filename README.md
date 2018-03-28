@@ -2,7 +2,9 @@
 ---
 
 In this tutorial you will see how to set docker as a server for phpStorm and for debugging to use xDebug.
+
 The OS that i'm using is macOS High Sierra v 10.13.3
+
 The version of phpStorm is 2017.3
 
 ## What will you need to install:
