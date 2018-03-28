@@ -1,7 +1,9 @@
-# Configure docker as a server for phpStorm with xDebug and php7.2
+# Configure docker as a server for phpStorm with xDebug, php7.2 and mySQL
 ---
 
 In this tutorial you will see how to set docker as a server for phpStorm and for debugging to use xDebug.
+
+Also we will configure mySQL
 
 The OS that i'm using is macOS High Sierra v 10.13.3
 
@@ -50,5 +52,4 @@ The version of phpStorm is 2017.3
   After that you may navigate to http://localhost/test-folder and you will see the result
   You may try the debugger too. Set a breakpoint in phpStrom and start debugging, we'll see that xDebug sends debugging information to phpStorm
     
-  ## TODO
-   1. Add mysql container
+  If you wan't now you may connet to mySQL too. There should be one database with name 'blog'
