@@ -43,9 +43,9 @@ The version of phpStorm is 2017.3
   ## Let's test it 
   Run those two commands to build it and start the container 
   
-    `docker-compose build`
+    docker-compose build
     
-    `docker-compose up -d`
+    docker-compose up -d
     
   After that you may navigate to http://localhost/test-folder and you will see the result
   You may try the debugger too. Set a breakpoint in phpStrom and start debugging, we'll see that xDebug sends debugging information to phpStorm
